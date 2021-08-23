@@ -1,0 +1,31 @@
+{
+	"author": {
+		"email": "romain.faust@gmail.com",
+		"name": "Romain Faust"
+	},
+	"description": "Shared TypeScript configuration for Node.js",
+	"devDependencies": {
+		"@romain-faust/prettier-config": "~2.0.4",
+		"husky": "~7.0.1",
+		"lint-staged": "~11.1.2",
+		"prettier": "~2.3.2"
+	},
+	"files": [
+		"changelog.md",
+		"license.md",
+		"package.json",
+		"tsconfig.json"
+	],
+	"license": "MIT",
+	"main": "tsconfig.json",
+	"name": "@romain-faust/tsconfig-node",
+	"peerDependencies": {
+		"@types/node": "^16.7.1",
+		"typescript": "^4.3.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/romain-faust/tsconfig-node"
+	},
+	"version": "1.0.0"
+}
