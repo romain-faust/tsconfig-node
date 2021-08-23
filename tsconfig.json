@@ -11,7 +11,6 @@
 		"noEmitOnError": true,
 		"noErrorTruncation": true,
 		"noImplicitAny": true,
-		"noImplicitReturns": true,
 		"noImplicitThis": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
