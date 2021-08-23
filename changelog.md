@@ -6,4 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Changed
+
+-   Add `readme.md` to the `files` section of the `package.json`.
+
 ## [1.0.0] - 2021-08-23
